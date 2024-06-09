@@ -1,24 +1,27 @@
 # Personal-Website
 
-This is the README for Nkululeko Buthelezi's personal website, a single-page portfolio showcasing his skills and experience as a software developer.
+This is a basic HTML, CSS, and JavaScript code for a portfolio website.
 
 Features:
 
-Navigation Bar: Links to different sections of the website (About Me, Projects, Skills, Contact).
-About Me Section: Introduces Nkululeko, his background in software development, and his passion for coding.
-Projects Section: Displays a grid of Nkululeko's capstone projects with brief descriptions and links to their GitHub repositories (replace with your actual project links).
-Skills Section: Outlines Nkululeko's programming and software engineering skills categorized by proficiency level (Beginner, Intermediate, Advanced).
-Contact Section: Provides contact information including email, phone number, address, LinkedIn profile, and GitHub profile.
-Technology Stack:
+Navigation bar: Links to different sections of the website (Home, About, Projects, Skills, Contact).
+Hero section: Introduces the website owner and their profession.
+About section: Provides a brief biography and highlights relevant skills.
+Projects section: Showcases a portfolio of projects with links to their GitHub repositories.
+Skills section: Lists the website owner's technical skills and proficiency levels.
+Contact section: Provides contact information including email, phone number, address, LinkedIn profile, and GitHub profile.
+Smooth scrolling: Clicking on navigation links results in smooth scrolling to the corresponding section.
+Technologies used:
 
-HTML: Provides the basic structure and content of the website.
-CSS: Styles the website's visual elements (layout, colors, fonts).
-JavaScript: Enables interactive features like smooth scrolling between sections.
-Bootstrap: A CSS framework used for responsive design and common UI components.
-Font Awesome: Provides icons for social media and other elements.
-How to Use:
+HTML: The markup language for creating the content and structure of the web page.
+CSS: The stylesheet language for controlling the appearance of the web page (fonts, colors, layout, etc.).
+JavaScript: The scripting language for adding interactivity to the web page (navigation, smooth scrolling).
+Bootstrap: A popular CSS framework used for responsive web design.
+Font Awesome: A library of icons used to add visual elements to the web page.
+How to use this code:
 
-Open the index.html file in a web browser.
-Click on the navigation links to explore different sections of the website.
-View Nkululeko's projects by clicking on the project links in the "Projects" section.
-Get in touch with Nkululeko using the contact information provided.
+Save the code as an HTML file (e.g., index.html).
+Ensure the following files are in the same directory as the HTML file:
+Images folder containing the profile picture and project screenshots.
+Documents folder containing the downloadable CV/resume.
+Open the HTML file in a web browser to view th
